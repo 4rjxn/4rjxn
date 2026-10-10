@@ -13,25 +13,6 @@ I have a strong interest in **Mathematics** and **Computer Science**, and I’m 
 
 ---
 
-## 🔧 My Journey
-
-* 🔌 **IoT & Embedded Systems**
-  My coding journey began with Arduino and IoT, where I learned how hardware interacts with software and developed my first programs using a C-like language.
-
-* 🌐 **Cybersecurity & Networking**
-  I explored networking and security, gaining a deep understanding of how computers communicate and how the internet works.
-
-* 🐍 **Python Development**
-  Built multiple small projects and games, strengthening my understanding of programming fundamentals.
-
-* 📱 **Flutter & Dart**
-  Developed cross-platform applications and learned **Clean Architecture**, **OOP**, and writing maintainable, modular code.
-
-* 🦀 **Rust Systems Programming**
-  Focused on performance, safety, and low-level systems development.
-
----
-
 ## 💼 Projects
 
 ### 🎵 Music Streaming Platform
@@ -56,14 +37,6 @@ I have a strong interest in **Mathematics** and **Computer Science**, and I’m 
 * Custom implementation inspired by the Signal protocol
 * Built using Rust
 
----
-
-## 🎓 Education
-
-* 🏫 Sacred Heart Higher Secondary School, Payyavoor
-* 🎓 B.Tech @ Vimal Jyothi Engineering College, Chemberi *(Currently Pursuing)*
-
----
 
 ## ⚙️ Tech Stack
 
